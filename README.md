@@ -1,7 +1,7 @@
 # employee-tracker
 
 ## About the Project
-As a business owner I want to be able to view and manage the departments, roles, and emplyees in my company so that I can organize and plan my business.
+As a business owner I want to be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business.
 
 This project is run through the command-line and requires inquirer and mysql2 npm packages to connect to the mySQL database and to interact at the CLI as well as the console.table npm to print mySQL rows to the console.
 Use npm i in the command-line to install the required packs.
