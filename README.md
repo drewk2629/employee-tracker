@@ -13,4 +13,4 @@ Once the npm packages are installed, begin the process of getting the database s
 Node, inquirer, MySQL, mysql2, console.table
 
 ## Video Demo Here
-
+https://www.youtube.com/watch?v=xhcZa1ZKfls
